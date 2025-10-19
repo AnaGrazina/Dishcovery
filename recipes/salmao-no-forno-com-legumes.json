@@ -1,0 +1,21 @@
+{
+  "title": "Salmão no Forno com Legumes",
+  "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200",
+  "yield": "4 doses",
+  "totalTime": "25 min",
+  "ingredients": [
+    { "qty": "4", "unit": "postas", "name": "salmão" },
+    { "qty": "2", "unit": "c.sopa", "name": "azeite" },
+    { "qty": "1", "unit": "uni", "name": "limão (sumo e raspas)" },
+    { "qty": "300", "unit": "g", "name": "brócolos em raminhos" },
+    { "qty": "200", "unit": "g", "name": "cenoura em rodelas" },
+    { "qty": "q.b.", "unit": "", "name": "sal, pimenta e alho em pó" }
+  ],
+  "steps": [
+    "Pré-aquece o forno a 200°C.",
+    "Dispõe os legumes numa assadeira, rega com metade do azeite e tempera.",
+    "Por cima, coloca o salmão, rega com o resto do azeite e o limão.",
+    "Assa 12–15 min (dependendo da espessura) e serve."
+  ],
+  "tags": ["forno", "saudável", "rápido"]
+}

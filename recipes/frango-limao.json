@@ -1,0 +1,28 @@
+{
+  "id": "frango-limao",
+  "title": "Frango no forno com limão",
+  "date": "2025-09-24",
+  "category": "Jantares práticos",
+  "servings": 4,
+  "totalTimeMin": 40,
+  "difficulty": "easy",
+  "tags": ["forno", "económico", "sem-lactose"],
+  "images": {
+    "cover": "https://images.unsplash.com/photo-1604908811849-2f1d46b77c8b?w=1200"
+  },
+  "description": "Frango suculento com alho e limão.",
+  "ingredients": [
+    { "name": "Frango", "qty": 1, "unit": "kg", "note": "em pedaços", "original": "1 kg frango em pedaços" },
+    { "name": "Limão", "qty": 2, "unit": "un" },
+    { "name": "Alho", "qty": 4, "unit": "un", "note": "dentes esmagados" },
+    { "name": "Azeite", "qty": 2, "unit": "tbsp" },
+    { "name": "Sal", "qty": 1, "unit": "tsp" },
+    { "name": "Pimenta", "qty": 0.5, "unit": "tsp" }
+  ],
+  "steps": [
+    { "text": "Pré-aquece o forno a 200ºC", "timeMin": 5, "tempC": 200 },
+    { "text": "Mistura azeite, alho, sal e pimenta; envolve o frango" },
+    { "text": "Coloca numa assadeira com rodelas de limão e assa", "timeMin": 30, "tempC": 200 },
+    { "text": "Descansa 5 min e serve" }
+  ]
+}

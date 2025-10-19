@@ -1,0 +1,23 @@
+{
+  "title": "Caldo Verde Simples",
+  "image": "https://images.unsplash.com/photo-1505575972945-2804b5c30b9d?w=1200",
+  "yield": "4 doses",
+  "totalTime": "35 min",
+  "ingredients": [
+    { "qty": "2", "unit": "c.sopa", "name": "azeite" },
+    { "qty": "1", "unit": "", "name": "cebola pequena, picada" },
+    { "qty": "2", "unit": "", "name": "dentes de alho" },
+    { "qty": "500", "unit": "g", "name": "batata, em cubos" },
+    { "qty": "900", "unit": "ml", "name": "água" },
+    { "qty": "150", "unit": "g", "name": "couve galega, em juliana fina" },
+    { "qty": "1", "unit": "uni", "name": "chouriço, às rodelas (opcional)" },
+    { "qty": "q.b.", "unit": "", "name": "sal e pimenta" }
+  ],
+  "steps": [
+    "Refoga cebola e alho no azeite.",
+    "Junta a batata e a água; coze até amaciar.",
+    "Tritura, volta ao lume e adiciona a couve.",
+    "Coze 2–3 minutos; junta rodelas de chouriço, ajusta temperos e serve."
+  ],
+  "tags": ["sopa", "tradicional"]
+}

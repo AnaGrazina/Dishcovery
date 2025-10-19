@@ -1,0 +1,24 @@
+{
+  "title": "Bacalhau com Natas",
+  "image": "https://images.unsplash.com/photo-1514511546245-8f6c2f0d5b3f?w=1200",
+  "yield": "6 doses",
+  "totalTime": "60 min",
+  "ingredients": [
+    { "qty": "600", "unit": "g", "name": "bacalhau demolhado, lascado" },
+    { "qty": "500", "unit": "g", "name": "batata em cubos, frita ou assada" },
+    { "qty": "1", "unit": "", "name": "cebola grande, em meia-lua" },
+    { "qty": "2", "unit": "", "name": "dentes de alho" },
+    { "qty": "3", "unit": "c.sopa", "name": "azeite" },
+    { "qty": "300", "unit": "ml", "name": "natas" },
+    { "qty": "300", "unit": "ml", "name": "molho bechamel" },
+    { "qty": "q.b.", "unit": "", "name": "sal, pimenta e noz-moscada" },
+    { "qty": "q.b.", "unit": "", "name": "queijo ralado para gratinar" }
+  ],
+  "steps": [
+    "Refoga cebola e alho no azeite até macios.",
+    "Junta o bacalhau, envolve e cozinha 2–3 min.",
+    "Mistura batata, natas e bechamel; corrige temperos.",
+    "Leva a travessa ao forno com queijo por cima até gratinar."
+  ],
+  "tags": ["forno", "conforto"]
+}

@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "units": ["g", "kg", "ml", "l", "tsp", "tbsp", "cup", "un"],
+  "recipes": [
+    {
+      "id": "frango-limao",
+      "title": "Frango no forno com limão",
+      "date": "2025-09-24",
+      "url": "recipes/frango-limao.json",
+      "category": "Jantares práticos",
+      "servings": 4,
+      "totalTimeMin": 40,
+      "difficulty": "easy",
+      "tags": ["forno", "económico"],
+      "images": { "cover": "https://cozinhaalacarte.pt/wp-content/uploads/2021/05/FrangoAssadonoForno.jpg" }
+    },
+    {
+      "id": "bolo-iogurte",
+      "title": "Bolo de iogurte fofinho",
+      "date": "2025-09-24",
+      "url": "recipes/bolo-iogurte.json",
+      "category": "Doces & Bolos",
+      "servings": 8,
+      "totalTimeMin": 35,
+      "difficulty": "easy",
+      "tags": ["bolo", "rápido", "favorito"],
+      "images": { "cover": "https://live.staticflickr.com/5098/5422835720_75defb515a_b.jpg" }
+    },
+    {
+    "id": "arroz-de-frango",
+    "title": "Arroz de Frango",
+    "date": "2025-09-27",
+    "url": "recipes/arroz-de-frango.json",
+    "category": "Jantares práticos",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "difficulty": "easy",
+    "tags": ["tacho", "frango", "económico"],
+    "images": { "cover": "https://dicasdecasa.pt/wp-content/uploads/2024/09/leftovers.jpg" }
+    },
+    {
+    "id": "massa-carbonara",
+    "title": "Massa à Carbonara (clássica)",
+    "date": "2025-09-27",
+    "url": "recipes/massa-carbonara.json",
+    "category": "Massas",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "difficulty": "easy",
+    "tags": ["massa", "rápido"],
+    "images": { "cover": "https://www.publicdomainpictures.net/pictures/210000/nahled/spaghetti-carbonara-14896856952Hb.jpg" }
+    },
+    {
+    "id": "sopa-de-abobora-cremosa",
+    "title": "Sopa de Abóbora Cremosa",
+    "date": "2025-09-27",
+    "url": "recipes/sopa-de-abobora-cremosa.json",
+    "category": "Sopas",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "difficulty": "easy",
+    "tags": ["sopa", "vegetariano", "económico"],
+    "images": { "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM31EB4M9M5wA68N_udkbBSl4iZGN_tI6cBw&s" }
+  },
+  {
+    "id": "caldo-verde-simples",
+    "title": "Caldo Verde Simples",
+    "date": "2025-09-27",
+    "url": "recipes/caldo-verde-simples.json",
+    "category": "Sopas",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "difficulty": "easy",
+    "tags": ["sopa", "tradicional"],
+    "images": { "cover": "https://upload.wikimedia.org/wikipedia/commons/7/77/Caldo_verde_-_Jul_2008.jpg" }
+  },
+  {
+    "id": "bacalhau-com-natas",
+    "title": "Bacalhau com Natas",
+    "date": "2025-09-27",
+    "url": "recipes/bacalhau-com-natas.json",
+    "category": "Peixe",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "difficulty": "medium",
+    "tags": ["forno", "conforto"],
+    "images": { "cover": "https://live.staticflickr.com/5012/5582158632_22a0e59030_z.jpg" }
+  },
+  {
+    "id": "salmao-no-forno-com-legumes",
+    "title": "Salmão no Forno com Legumes",
+    "date": "2025-09-27",
+    "url": "recipes/salmao-no-forno-com-legumes.json",
+    "category": "Peixe",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "difficulty": "easy",
+    "tags": ["forno", "saudável", "rápido"],
+    "images": { "cover": "https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmYzMjU5LWltYWdlLWt3dnluMDRmLmpwZw.jpg" }
+  },
+  {
+    "id": "mousse-de-chocolate",
+    "title": "Mousse de Chocolate",
+    "date": "2025-09-27",
+    "url": "recipes/mousse-de-chocolate.json",
+    "category": "Sobremesas",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "difficulty": "easy",
+    "tags": ["chocolate", "clássico"],
+    "images": { "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chocolate_mousse_-_stonesoup.jpg" }
+  },
+  {
+    "id": "arroz-doce-cremoso",
+    "title": "Arroz Doce Cremoso",
+    "date": "2025-09-27",
+    "url": "recipes/arroz-doce-cremoso.json",
+    "category": "Sobremesas",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "difficulty": "easy",
+    "tags": ["tradicional", "sobremesa-de-colher"],
+    "images": { "cover": "https://live.staticflickr.com/5783/21127226052_86e7378b1d_b.jpg" }
+  }
+  ]
+}

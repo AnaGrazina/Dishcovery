@@ -1,0 +1,22 @@
+{
+  "title": "Arroz de Frango",
+  "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+  "yield": "4 doses",
+  "totalTime": "40 min",
+  "ingredients": [
+    {"qty":"2", "unit":"c.sopa", "name":"azeite"},
+    {"qty":"1", "unit":"", "name":"cebola picada"},
+    {"qty":"2", "unit":"", "name":"dentes de alho"},
+    {"qty":"300", "unit":"g", "name":"peito de frango em cubos"},
+    {"qty":"200", "unit":"g", "name":"arroz"},
+    {"qty":"600", "unit":"ml", "name":"caldo de frango"},
+    {"qty":"q.b.", "unit":"", "name":"sal e pimenta"}
+  ],
+  "steps": [
+    "Refogar cebola e alho no azeite.",
+    "Juntar o frango e dourar.",
+    "Adicionar o arroz, envolver e regar com o caldo.",
+    "Temperar, tapar e cozinhar até o arroz ficar tenro."
+  ],
+  "tags": ["rápido", "frango", "económico"]
+}

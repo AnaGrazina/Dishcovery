@@ -1,0 +1,21 @@
+{
+  "title": "Massa à Carbonara (clássica)",
+  "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?w=1200",
+  "yield": "2 doses",
+  "totalTime": "20 min",
+  "ingredients": [
+    { "qty": "200", "unit": "g", "name": "esparguete" },
+    { "qty": "80", "unit": "g", "name": "guanciale ou bacon" },
+    { "qty": "2", "unit": "", "name": "ovos" },
+    { "qty": "30", "unit": "g", "name": "queijo pecorino/parmigiano ralado" },
+    { "qty": "q.b.", "unit": "", "name": "pimenta preta moída" },
+    { "qty": "q.b.", "unit": "", "name": "sal" }
+  ],
+  "steps": [
+    "Ferve a massa em água salgada.",
+    "Salteia o guanciale/bacon até ficar crocante.",
+    "Bate os ovos com o queijo e pimenta.",
+    "Junta a massa escorrida (reservando água) à frigideira, retira do lume, incorpora a mistura de ovos, ajusta com um pouco da água da cozedura e serve."
+  ],
+  "tags": ["massa", "rápido"]
+}

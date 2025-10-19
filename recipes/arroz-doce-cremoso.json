@@ -1,0 +1,21 @@
+{
+  "title": "Arroz Doce Cremoso",
+  "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=1200",
+  "yield": "8 doses",
+  "totalTime": "45 min",
+  "ingredients": [
+    { "qty": "1", "unit": "l", "name": "leite" },
+    { "qty": "200", "unit": "g", "name": "arroz carolino" },
+    { "qty": "150", "unit": "g", "name": "açúcar" },
+    { "qty": "1", "unit": "casca", "name": "limão" },
+    { "qty": "1", "unit": "pau", "name": "canela" },
+    { "qty": "2", "unit": "", "name": "gemas (opcional, para extra cremoso)" }
+  ],
+  "steps": [
+    "Aquece o leite com a casca de limão e o pau de canela.",
+    "Junta o arroz e cozinha em lume brando, mexendo, até amaciar.",
+    "Adiciona o açúcar e mexe mais 5–8 min.",
+    "Fora do lume, envolve as gemas batidas (se usares). Retira casca e canela e serve polvilhado com canela."
+  ],
+  "tags": ["tradicional", "sobremesa-de-colher"]
+}

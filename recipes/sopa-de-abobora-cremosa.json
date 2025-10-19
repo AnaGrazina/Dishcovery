@@ -1,0 +1,22 @@
+{
+  "title": "Sopa de Abóbora Cremosa",
+  "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200",
+  "yield": "4 doses",
+  "totalTime": "30 min",
+  "ingredients": [
+    { "qty": "2", "unit": "c.sopa", "name": "azeite" },
+    { "qty": "1", "unit": "", "name": "cebola média, picada" },
+    { "qty": "2", "unit": "", "name": "dentes de alho" },
+    { "qty": "600", "unit": "g", "name": "abóbora descascada, em cubos" },
+    { "qty": "1", "unit": "", "name": "batata média, em cubos" },
+    { "qty": "800", "unit": "ml", "name": "água ou caldo de legumes" },
+    { "qty": "q.b.", "unit": "", "name": "sal e pimenta" }
+  ],
+  "steps": [
+    "Refoga cebola e alho no azeite.",
+    "Junta a abóbora e a batata, envolve e adiciona o caldo.",
+    "Coze até amaciar e tritura até ficar cremosa.",
+    "Ajusta sal e pimenta e serve."
+  ],
+  "tags": ["sopa", "vegetariano", "económico"]
+}

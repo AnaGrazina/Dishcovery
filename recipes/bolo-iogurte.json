@@ -1,0 +1,27 @@
+{
+  "id": "bolo-iogurte",
+  "title": "Bolo de iogurte fofinho",
+  "date": "2025-09-24",
+  "category": "Doces & Bolos",
+  "servings": 8,
+  "totalTimeMin": 35,
+  "difficulty": "easy",
+  "tags": ["bolo", "rápido", "favorito"],
+  "images": {
+    "cover": "https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=1200"
+  },
+  "description": "O clássico bolo de iogurte, leve e rápido.",
+  "ingredients": [
+    { "name": "Ovos", "qty": 4, "unit": "un" },
+    { "name": "Iogurte natural", "qty": 1, "unit": "cup" },
+    { "name": "Açúcar", "qty": 1, "unit": "cup" },
+    { "name": "Farinha", "qty": 2, "unit": "cup" },
+    { "name": "Fermento", "qty": 1, "unit": "tbsp" },
+    { "name": "Óleo", "qty": 0.5, "unit": "cup" }
+  ],
+  "steps": [
+    { "text": "Aquece o forno a 180ºC", "tempC": 180 },
+    { "text": "Bate ovos e açúcar; junta iogurte e óleo" },
+    { "text": "Envolve farinha e fermento; leva à forma untada", "timeMin": 25, "tempC": 180 }
+  ]
+}

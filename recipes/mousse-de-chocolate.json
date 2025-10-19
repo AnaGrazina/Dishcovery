@@ -1,0 +1,19 @@
+{
+  "title": "Mousse de Chocolate",
+  "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200",
+  "yield": "6 taças",
+  "totalTime": "20 min (+frio)",
+  "ingredients": [
+    { "qty": "200", "unit": "g", "name": "chocolate 70% cacau" },
+    { "qty": "4", "unit": "", "name": "ovos (gemas e claras separadas)" },
+    { "qty": "40", "unit": "g", "name": "açúcar" },
+    { "qty": "1", "unit": "pitada", "name": "sal" }
+  ],
+  "steps": [
+    "Derrete o chocolate em banho-maria e deixa arrefecer ligeiramente.",
+    "Bate as gemas com o açúcar até esbranquiçar; envolve no chocolate.",
+    "Bate as claras em castelo com a pitada de sal e envolve delicadamente.",
+    "Distribui por taças e leva ao frio 2–3 horas."
+  ],
+  "tags": ["chocolate", "clássico"]
+}
