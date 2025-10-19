@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dishcovery</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script type="module" src="./app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="./">Dishcovery</a>
+    <nav>
+      <a href="./receitas/">Receitas</a>
+      <a href="./indice.html">Índice A-Z</a>
+      <a href="./sobre.html">Sobre</a>
+      <a href="./contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <!-- HERO full-bleed -->
+  <section class="hero" style="--hero:url('https://images.unsplash.com/photo-1495546968767-f0573cca821e?w=1600');">
+    <div class="hero-inner">
+      <h1>Dishcovery</h1>
+      <p>Receitas simples do dia-a-dia</p>
+      <div class="search-wrap">
+        <input id="home-search" type="search" placeholder="Procurar receita, ingrediente ou tag…" />
+        <a class="btn" href="./receitas/">Ver todas</a>
+      </div>
+      <div class="quick-filters">
+        <a class="chip" href="./receitas/#tempo=30">≤ 30 min</a>
+        <a class="chip" href="./receitas/#categoria=Doces%20%26%20Bolos">Doces & Bolos</a>
+        <a class="chip" href="./receitas/#tag=air-fryer">Air Fryer</a>
+        <a class="chip" href="./receitas/#tag=vegetariano">Vegetariano</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Resultados da pesquisa online (fica escondido até haver resultados) -->
+  <section id="results-online" class="recipes grid container" aria-live="polite" hidden></section>
+
+  <main class="container">
+    <section>
+      <h2>Novas receitas</h2>
+      <div id="home-new" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Dishcovery · <a href="./api/">API</a> · <a href="./privacidade.html">Privacidade</a></p>
+  </footer>
+</body>
+</html>
